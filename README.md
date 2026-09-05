@@ -2,9 +2,9 @@
 
   <!-- Animated Header Typing SVG -->
   <a href="https://github.com/sksathishkumar108-create">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Hi+There!+I'm+Sathish+Kumar+👋;Full-Stack+Web+%26+Mobile+Developer;Flutter+%26+Android+App+Creator;Building+Modern+Web+Applications;" alt="Typing SVG" />
-  </a>
-
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,24&height=220&section=header&text=Sathish%20Kumar&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+</div>
   <p align="center">
     ⚡ <i>Crafting seamless mobile experiences & robust web solutions.</i> ⚡
   </p>
