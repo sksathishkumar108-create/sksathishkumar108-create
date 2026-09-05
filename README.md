@@ -1,40 +1,18 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I'm **Sathishkumar K**, a Computer Science Engineering student and developer.<br>📱 I can design and develop **mobile applications** from idea to implementation.<br>🌐 I also build **responsive and user-friendly websites**.<br>🎨 I have a strong interest in **UI/UX design and creating modern interfaces**.<br>💻 I work with technologies like **Python, Java, HTML, CSS, SQL, Node.js, and REST APIs**.<br>🔥 I enjoy turning ideas into **functional apps and websites**.<br>🚀 I’m interested in **Full-Stack Development, Mobile Development, and UI/UX Design**.<br>📚 I continuously learn new technologies and improve my development skills.<br>🔥 I have experience working with Firebase, Authentication, and Cloud-based services.
 
-  <!-- Animated Header Typing SVG -->
-  <a href="https://github.com/sksathishkumar108-create">
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,24&height=220&section=header&text=Sathish%20Kumar&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
-</div>
-  <p align="center">
-    ⚡ <i>Crafting seamless mobile experiences & robust web solutions.</i> ⚡
-  </p>
 
-  <!-- Visitor Count & Status Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sksathishkumar108-create&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
-    <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-blueviolet?style=flat&logo=flutter" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Jobs-success?style=flat" alt="Open to Work" />
-  </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sk-sathish-7a1141400?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sksathishkumar108@gmail.com) 
 
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/sksathishkumar108-create"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sksathishkumar108-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sksathishkumar108-create&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sksathishkumar108-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sksathishkumar108-create&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 👨‍💻 About Me
-
-```javascript
-const sathish = {
-  role: "App & Web Developer",
-  mobileStack: ["Flutter", "Android Native (Kotlin/Java)"],
-  webStack: ["React", "Node.js", "JavaScript", "HTML5", "CSS3/Tailwind"],
-  database: ["Firebase", "MongoDB", "MySQL"],
-  currentProject: "Real-time Chat & Interactive Mobile Applications",
-  motto: "Clean Code • High Performance • Great UX"
-};
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
